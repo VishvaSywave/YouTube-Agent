@@ -29,6 +29,15 @@ A Node.js application that acts as a **YouTube video assistant**. It can transcr
 
 1. Clone the repository:
 
-```bash
 git clone <your-repo-url>
 cd YouTube_Agent
+
+2. Install Dependencies
+
+npm install
+
+3. Craete .env file 
+GEMINI_API_KEY=your_google_gemini_api_key
+PORT=3000
+
+4. Start Server 
