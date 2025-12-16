@@ -37,7 +37,9 @@ cd YouTube_Agent
 npm install
 
 3. Craete .env file 
+
 GEMINI_API_KEY=your_google_gemini_api_key
+
 PORT=3000
 
 4. Start Server 
